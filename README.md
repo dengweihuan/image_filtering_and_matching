@@ -48,9 +48,6 @@ pip install -r requirements.txt
 Bash Image_filtering_and_matching.sh
 ```
 
-## License
-
-
 ## Citing paper
 Stay tuned
 
