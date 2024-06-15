@@ -49,5 +49,5 @@ Bash Image_filtering_and_matching.sh
 ```
 
 ## Citing paper
-Stay tuned
+The paper is currently under review. We invite you to stay tuned for updates and the publication of our research findings.
 
