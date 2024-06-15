@@ -7,7 +7,7 @@ Yaofu Huang,
 Weihuan Deng,
 Xun Li,
 
-PyTorch implementation and pretrained models for llava-v1.6 and DINOv2.
+The model has been implemented utilizing the PyTorch framework, with experimental benchmarks established against the latest versions of LLaVA-v1.6 and DINOv2.
 
 ## Installation
 
@@ -41,8 +41,6 @@ pip install -r requirements.txt
 - `Town`
 
 ## Inference
-
-The training code regularly saves the teacher weights. In order to evaluate the model, run the following evaluation on a single node:
 
 ### Image filtering and matching
 
